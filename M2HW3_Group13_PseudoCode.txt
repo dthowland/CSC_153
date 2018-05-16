@@ -1,0 +1,6 @@
+start
+	Get User Input
+	Calculate ticket revenue
+	Calculate total revenue
+	Display Output
+end
